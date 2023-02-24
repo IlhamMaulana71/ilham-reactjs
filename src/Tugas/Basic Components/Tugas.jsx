@@ -1,6 +1,6 @@
 import React from "react";
-import  ClassComponent  from "../Tugas/Class Components";
-import  FunctionComponent  from "../Tugas/Functional Components"
+import  ClassComponent  from "../Basic Components/Class Components";
+import  FunctionComponent  from "../Basic Components/Functional Components"
 
 const Tugas = () => {
     return (
