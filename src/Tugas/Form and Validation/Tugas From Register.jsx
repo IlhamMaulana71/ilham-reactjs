@@ -71,7 +71,7 @@ export default class TugasFromRegister extends React.Component{
     }
     render() {
         const style = {
-            width : '400px',
+            width : '500px',
             margin : '10px auto 0',
             border : '1px solid black',
             padding : '50px',
